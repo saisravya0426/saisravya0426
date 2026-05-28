@@ -37,10 +37,9 @@ Tools: Git, VS Code, Jupyter Notebook, Colab
 
 
 ---
+Connect With Me
 
-## 🌐 Connect With Me
-
-LinkedIn: ## 🌐 Connect With Me
+LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Sravya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SaiSravya) 
 
