@@ -18,16 +18,16 @@ Tools: Git, VS Code, Jupyter Notebook, Colab
 Projects
 
 Stock Price Prediction using LSTM
-[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-orange?style=for-the-badge)](https://github.com/saisravya0426/Sentiment-Analysis-Bot)
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/Sentiment-Analysis-Bot)
 
 Encrypted Chat App
-[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-orange?style=for-the-badge)](https://github.com/saisravya0426/Chat-based-app)
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/Chat-based-app)
 
 House Price Prediction
-[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-orange?style=for-the-badge)](https://github.com/saisravya0426/House-Price-Prediction)
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/House-Price-Prediction)
 
 Sentiment Analysis Bot
-[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-orange?style=for-the-badge)](https://github.com/saisravya0426/Sentiment-Analysis-Bot)
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/Sentiment-Analysis-Bot)
 
 ---
 
@@ -35,11 +35,11 @@ Sentiment Analysis Bot
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;DSA+Learner;Python+Developer)](https://git.io/typing-svg)
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/C++-green?style=for-the-badge&logo=cplusplus)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python)
 
-![AIML](https://img.shields.io/badge/AIML-orange?style=for-the-badge&logo=AIML)
+![AIML](https://img.shields.io/badge/AIML-green?style=for-the-badge&logo=AIML)
 
 ![DSA](https://img.shields.io/badge/DSA-orange?style=for-the-badge&logo=DSA)
 
@@ -48,6 +48,6 @@ Connect With Me
 
 LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Sravya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sai-sravya-nambari-SbGSG1234/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Sravya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sai-sravya-nambari-SbGSG1234/) 
 
 Email: nambarisaisravya@gmail.com
