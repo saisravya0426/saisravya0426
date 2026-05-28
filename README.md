@@ -28,12 +28,19 @@ Tools: Git, VS Code, Jupyter Notebook, Colab
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisravya0426&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saisravya0426&layout=compact)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;DSA+Learner;Python+Developer)](https://git.io/typing-svg)
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+
+![TensorFlow](https://img.shields.io/badge/AIML-orange?style=for-the-badge&logo=AIML)
+
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
 ![](https://komarev.com/ghpvc/?username=saisravya0426)
+
 ---
 
 ## 🌐 Connect With Me
