@@ -18,7 +18,7 @@ Tools: Git, VS Code, Jupyter Notebook, Colab
 Projects
 
 Stock Price Prediction using LSTM
-[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/Sentiment-Analysis-Bot)
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/Stock-Price-Prediction)
 
 Encrypted Chat App
 [![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/Chat-based-app)
