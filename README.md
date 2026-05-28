@@ -15,13 +15,19 @@ ML/DL: TensorFlow, scikit-learn, LSTM, Regression, Classification
 Tools: Git, VS Code, Jupyter Notebook, Colab  
 
 ---
+Projects
 
-## Projects
+Stock Price Prediction using LSTM
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://github.com/saisravya0426/Sentiment-Analysis-Bot)
 
-🔹 Stock Price Prediction using LSTM 
-🔹 House Price Prediction
-🔹 End-to-End Encrypted Chat App  
-🔹 Sentiment Analysis Bot  
+Encrypted Chat App
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-green?style=for-the-badge)](https://github.com/saisravya0426/Chat-based-app)
+
+House Price Prediction
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-green?style=for-the-badge)](https://github.com/saisravya0426/House-Price-Prediction)
+
+Sentiment Analysis Bot
+[![Read More](https://img.shields.io/badge/View%20Project-Click%20Here-orange?style=for-the-badge)](https://github.com/saisravya0426/Sentiment-Analysis-Bot)
 
 ---
 
