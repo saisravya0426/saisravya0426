@@ -33,14 +33,15 @@ Tools: Git, VS Code, Jupyter Notebook, Colab
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-![TensorFlow](https://img.shields.io/badge/AIML-orange?style=for-the-badge&logo=AIML)
+![AIML](https://img.shields.io/badge/AIML-orange?style=for-the-badge&logo=AIML)
 
+![DSA](https://img.shields.io/badge/DSA-orange?style=for-the-badge&logo=DSA)
 
 ---
 Connect With Me
 
 LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Sravya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SaiSravya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Sravya-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/SaiSravya](https://linkedin.com/in/sai-sravya-nambari-SbGSG1234/)) 
 
 Email: nambarisaisravya@gmail.com
