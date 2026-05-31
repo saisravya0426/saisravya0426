@@ -9,7 +9,7 @@ Currently exploring LSTMs, PINNs, and advanced DSA
 
 ## Tech Stack
 
-Languages: Python, C++, SQL  
+Languages: Python, C/C++, SQL  
 Concepts: Data Structures, Algorithms, Model Evaluation, Feature Engineering
 ML/DL: TensorFlow, scikit-learn, LSTM, Regression, Classification  
 Tools: Git, VS Code, Jupyter Notebook, Colab  
@@ -35,7 +35,7 @@ Sentiment Analysis Bot
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;DSA+Learner;Python+Developer)](https://git.io/typing-svg)
 
-![C++](https://img.shields.io/badge/C++-green?style=for-the-badge&logo=cplusplus)
+![C++](https://img.shields.io/badge/C/C++-green?style=for-the-badge&logo=c/cplusplus)
 
 ![Python](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python)
 
